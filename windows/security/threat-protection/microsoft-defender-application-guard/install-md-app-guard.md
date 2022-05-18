@@ -26,7 +26,7 @@ ms.technology: windows-sec
  
 See [System requirements for Microsoft Defender Application Guard](./reqs-md-app-guard.md) to review the hardware and software installation requirements for Microsoft Defender Application Guard.
 >[!NOTE]
->Microsoft Defender Application Guard is not supported on VMs and VDI environment. For testing and automation on non-production machines, you may enable WDAG on a VM by enabling Hyper-V nested virtualization on the host.
+>Microsoft Defender Application Guard is not supported on VMs and VDI environment. For testing and automation on non-production machines, you may enable MDAG on a VM by enabling Hyper-V nested virtualization on the host.
 
 ## Prepare for Microsoft Defender Application Guard 
 Before you can install and use Microsoft Defender Application Guard, you must determine which way you intend to use it in your enterprise. You can use Application Guard in either **Standalone** or **Enterprise-managed** mode.
